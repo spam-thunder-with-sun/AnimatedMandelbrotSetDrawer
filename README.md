@@ -1,3 +1,3 @@
 # FrattaleMovimento
 
-![alt text](img.jpg)
+![Example image](img.png)
